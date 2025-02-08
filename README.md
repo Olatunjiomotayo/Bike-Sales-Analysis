@@ -1,4 +1,4 @@
-#Bike Sales Analyses:
+# Bike Sales Analyses:
 
 This document presents a comprehensive analysis of bike sales across various countries, focusing on revenue distribution, financial metrics, and revenue trends over the years.
 
@@ -30,7 +30,7 @@ This pivot table presents the financial metrics from bike sales across various c
 The analysis reveals that the United States not only has the highest revenue but also maintains a significant profit margin of $11,073,644, indicating strong market performance. Australia follows with a profit of $6,776,030, while the United Kingdom, Germany, France, and Canada also contribute positively to the overall profit.
 
 
-##Bike Sales Revenue Trends (2011-2016):
+## Bike Sales Revenue Trends (2011-2016):
 
 This analysis presents the revenue generated from bike sales across various countries from 2011 to 2016, showcasing the trends over the years.
 The data indicates that the United States leads in bike sales revenue, generating $27,975,547 over the six years, followed by Australia with $21,302,059. The trends suggest a growing market for bike sales, particularly in the United States and Australia.
