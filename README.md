@@ -1,4 +1,4 @@
-# Bike Sales Analyses:
+# Bike Sales Analysis:
 
 This document presents a comprehensive analysis of bike sales across various countries, focusing on revenue distribution, financial metrics, and revenue trends over the years.
 
